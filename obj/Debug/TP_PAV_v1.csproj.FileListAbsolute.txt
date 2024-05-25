@@ -1,0 +1,250 @@
+C:\Users\PC\Documents\GitHub\TPPAV2022\TP_PAV_v1\bin\Debug\TP_PAV_v1.exe.config
+C:\Users\PC\Documents\GitHub\TPPAV2022\TP_PAV_v1\bin\Debug\TP_PAV_v1.exe
+C:\Users\PC\Documents\GitHub\TPPAV2022\TP_PAV_v1\bin\Debug\TP_PAV_v1.pdb
+C:\Users\PC\Documents\GitHub\TPPAV2022\TP_PAV_v1\obj\Debug\TP_PAV_v1.csproj.AssemblyReference.cache
+C:\Users\PC\Documents\GitHub\TPPAV2022\TP_PAV_v1\obj\Debug\TP_PAV_v1.csproj.SuggestedBindingRedirects.cache
+C:\Users\PC\Documents\GitHub\TPPAV2022\TP_PAV_v1\obj\Debug\TP_PAV_v1.Formularios.ABMCamion.resources
+C:\Users\PC\Documents\GitHub\TPPAV2022\TP_PAV_v1\obj\Debug\TP_PAV_v1.ABMCombustible.resources
+C:\Users\PC\Documents\GitHub\TPPAV2022\TP_PAV_v1\obj\Debug\TP_PAV_v1.ABMBarrio.resources
+C:\Users\PC\Documents\GitHub\TPPAV2022\TP_PAV_v1\obj\Debug\TP_PAV_v1.Formularios.ABMEmpleados.resources
+C:\Users\PC\Documents\GitHub\TPPAV2022\TP_PAV_v1\obj\Debug\TP_PAV_v1.ABMLocalidad.resources
+C:\Users\PC\Documents\GitHub\TPPAV2022\TP_PAV_v1\obj\Debug\TP_PAV_v1.Formularios.ABMMarca.resources
+C:\Users\PC\Documents\GitHub\TPPAV2022\TP_PAV_v1\obj\Debug\TP_PAV_v1.Formularios.ABMProvincia.resources
+C:\Users\PC\Documents\GitHub\TPPAV2022\TP_PAV_v1\obj\Debug\TP_PAV_v1.Formularios.ABMSucursal.resources
+C:\Users\PC\Documents\GitHub\TPPAV2022\TP_PAV_v1\obj\Debug\TP_PAV_v1.Formularios.ABMTanque.resources
+C:\Users\PC\Documents\GitHub\TPPAV2022\TP_PAV_v1\obj\Debug\TP_PAV_v1.Formularios.ABMTipoCombustible.resources
+C:\Users\PC\Documents\GitHub\TPPAV2022\TP_PAV_v1\obj\Debug\TP_PAV_v1.Formularios.ABMTipoDocumento.resources
+C:\Users\PC\Documents\GitHub\TPPAV2022\TP_PAV_v1\obj\Debug\TP_PAV_v1.Formularios.ABMTurno.resources
+C:\Users\PC\Documents\GitHub\TPPAV2022\TP_PAV_v1\obj\Debug\TP_PAV_v1.Formularios.ABMEstacion.resources
+C:\Users\PC\Documents\GitHub\TPPAV2022\TP_PAV_v1\obj\Debug\TP_PAV_v1.LoguinForm.resources
+C:\Users\PC\Documents\GitHub\TPPAV2022\TP_PAV_v1\obj\Debug\TP_PAV_v1.Properties.Resources.resources
+C:\Users\PC\Documents\GitHub\TPPAV2022\TP_PAV_v1\obj\Debug\TP_PAV_v1.csproj.GenerateResource.cache
+C:\Users\PC\Documents\GitHub\TPPAV2022\TP_PAV_v1\obj\Debug\TP_PAV_v1.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\GitHub\TPPAV2022\TP_PAV_v1\obj\Debug\TP_PAV_v1.exe
+C:\Users\PC\Documents\GitHub\TPPAV2022\TP_PAV_v1\obj\Debug\TP_PAV_v1.pdb
+C:\Users\PC\Documents\GitHub\TPPAV2022\TP_PAV_v1\obj\Debug\TP_PAV_v1.Entidades.PrincipalForm.resources
+C:\Users\PC\Documents\GitHub\TPPAV2022\TP_PAV_v1\obj\Debug\TP_PAV_v1.Formularios.AltaRemito.resources
+C:\Users\PC\Documents\GitHub\TPPAV2022\TP_PAV_v1\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\PC\Documents\GitHub\TPPAV2022\TP_PAV_v1\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\PC\Documents\GitHub\TPPAV2022\TP_PAV_v1\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\PC\Documents\GitHub\TPPAV2022\TP_PAV_v1\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\PC\Documents\GitHub\TPPAV2022\TP_PAV_v1\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\PC\Documents\GitHub\TPPAV2022\TP_PAV_v1\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\PC\Documents\GitHub\TPPAV2022\TP_PAV_v1\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\PC\Documents\GitHub\TPPAV2022\TP_PAV_v1\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\PC\Documents\GitHub\TPPAV2022\TP_PAV_v1\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\PC\Documents\GitHub\TPPAV2022\TP_PAV_v1\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\PC\Documents\GitHub\TPPAV2022\TP_PAV_v1\bin\Debug\EnvDTE.dll
+C:\Users\PC\Documents\GitHub\TPPAV2022\TP_PAV_v1\bin\Debug\stdole.dll
+C:\Users\PC\Documents\GitHub\TPPAV2022\TP_PAV_v1\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\PC\Documents\GitHub\TPPAV2022\TP_PAV_v1\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\PC\Documents\GitHub\TPPAV2022\TP_PAV_v1\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\PC\Documents\GitHub\TPPAV2022\TP_PAV_v1\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\PC\Documents\GitHub\TPPAV2022\TP_PAV_v1\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\PC\Documents\GitHub\TPPAV2022\TP_PAV_v1\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\PC\Documents\GitHub\TPPAV2022\TP_PAV_v1\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\PC\Documents\GitHub\TPPAV2022\TP_PAV_v1\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\PC\Documents\GitHub\TPPAV2022\TP_PAV_v1\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\PC\Documents\GitHub\TPPAV2022\TP_PAV_v1\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\PC\Documents\GitHub\TPPAV2022\TP_PAV_v1\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\PC\Documents\GitHub\TPPAV2022\TP_PAV_v1\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\PC\Documents\GitHub\TPPAV2022\TP_PAV_v1\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\PC\Documents\GitHub\TPPAV2022\TP_PAV_v1\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\PC\Documents\GitHub\TPPAV2022\TP_PAV_v1\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\PC\Documents\GitHub\TPPAV2022\TP_PAV_v1\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\PC\Documents\GitHub\TPPAV2022\TP_PAV_v1\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\PC\Documents\GitHub\TPPAV2022\TP_PAV_v1\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\PC\Documents\GitHub\TPPAV2022\TP_PAV_v1\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\PC\Documents\GitHub\TPPAV2022\TP_PAV_v1\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\PC\Documents\GitHub\TPPAV2022\TP_PAV_v1\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\PC\Documents\GitHub\TPPAV2022\TP_PAV_v1\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\PC\Documents\GitHub\TPPAV2022\TP_PAV_v1\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\PC\Documents\GitHub\TPPAV2022\TP_PAV_v1\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\PC\Documents\GitHub\TPPAV2022\TP_PAV_v1\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\PC\Documents\GitHub\TPPAV2022\TP_PAV_v1\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\PC\Documents\GitHub\TPPAV2022\TP_PAV_v1\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\PC\Documents\GitHub\TPPAV2022\TP_PAV_v1\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\PC\Documents\GitHub\TPPAV2022\TP_PAV_v1\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\PC\Documents\GitHub\TPPAV2022\TP_PAV_v1\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\PC\Documents\GitHub\TPPAV2022\TP_PAV_v1\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\PC\Documents\GitHub\TPPAV2022\TP_PAV_v1\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\PC\Documents\GitHub\TPPAV2022\TP_PAV_v1\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\PC\Documents\GitHub\TPPAV2022\TP_PAV_v1\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\PC\Documents\GitHub\TPPAV2022\TP_PAV_v1\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\PC\Documents\GitHub\TPPAV2022\TP_PAV_v1\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\PC\Documents\GitHub\TPPAV2022\TP_PAV_v1\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\PC\Documents\GitHub\TPPAV2022\TP_PAV_v1\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\PC\Documents\GitHub\TPPAV2022\TP_PAV_v1\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\PC\Documents\GitHub\TPPAV2022\TP_PAV_v1\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\PC\Documents\GitHub\TPPAV2022\TP_PAV_v1\obj\Debug\TP_PAV_v1.Formularios.ReporteListadoCamiones.resources
+C:\Users\PC\Documents\GitHub\TPPAV2022\TP_PAV_v1\obj\Debug\TP_PAV_v1.csproj.CopyComplete
+C:\Users\PC\Documents\GitHub\TPPAV2022\TP_PAV_v1\obj\Debug\TP_PAV_v1.Formularios.ReporteEmpeados.resources
+C:\Users\PC\Documents\GitHub\TPPAV2022\TP_PAV_v1\obj\Debug\TP_PAV_v1.Formularios.ReporteListadoMarcas.resources
+C:\Users\Mi\Downloads\Ing. 2022\PAV 1 - 3k7\TP_PAV_v1\obj\Debug\TP_PAV_v1.csproj.AssemblyReference.cache
+C:\Users\Mi\Downloads\Ing. 2022\PAV 1 - 3k7\TP_PAV_v1\obj\Debug\TP_PAV_v1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Mi\Downloads\Ing. 2022\PAV 1 - 3k7\TP_PAV_v1\obj\Debug\TP_PAV_v1.exe
+C:\Users\Mi\Downloads\Ing. 2022\PAV 1 - 3k7\TP_PAV_v1\obj\Debug\TP_PAV_v1.pdb
+C:\Users\Mi\Downloads\Ing. 2022\PAV 1 - 3k7\TP_PAV_v1\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Mi\Downloads\Ing. 2022\PAV 1 - 3k7\TP_PAV_v1\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Mi\Downloads\Ing. 2022\PAV 1 - 3k7\TP_PAV_v1\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Mi\Downloads\Ing. 2022\PAV 1 - 3k7\TP_PAV_v1\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Mi\Downloads\Ing. 2022\PAV 1 - 3k7\TP_PAV_v1\bin\Debug\TP_PAV_v1.exe.config
+C:\Users\Mi\Downloads\Ing. 2022\PAV 1 - 3k7\TP_PAV_v1\bin\Debug\TP_PAV_v1.exe
+C:\Users\Mi\Downloads\Ing. 2022\PAV 1 - 3k7\TP_PAV_v1\bin\Debug\TP_PAV_v1.pdb
+C:\Users\Mi\Downloads\Ing. 2022\PAV 1 - 3k7\TP_PAV_v1\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Mi\Downloads\Ing. 2022\PAV 1 - 3k7\TP_PAV_v1\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Mi\Downloads\Ing. 2022\PAV 1 - 3k7\TP_PAV_v1\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Mi\Downloads\Ing. 2022\PAV 1 - 3k7\TP_PAV_v1\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Mi\Downloads\Ing. 2022\PAV 1 - 3k7\TP_PAV_v1\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Mi\Downloads\Ing. 2022\PAV 1 - 3k7\TP_PAV_v1\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Mi\Downloads\Ing. 2022\PAV 1 - 3k7\TP_PAV_v1\bin\Debug\EnvDTE.dll
+C:\Users\Mi\Downloads\Ing. 2022\PAV 1 - 3k7\TP_PAV_v1\bin\Debug\stdole.dll
+C:\Users\Mi\Downloads\Ing. 2022\PAV 1 - 3k7\TP_PAV_v1\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Mi\Downloads\Ing. 2022\PAV 1 - 3k7\TP_PAV_v1\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Mi\Downloads\Ing. 2022\PAV 1 - 3k7\TP_PAV_v1\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Mi\Downloads\Ing. 2022\PAV 1 - 3k7\TP_PAV_v1\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Mi\Downloads\Ing. 2022\PAV 1 - 3k7\TP_PAV_v1\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Mi\Downloads\Ing. 2022\PAV 1 - 3k7\TP_PAV_v1\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Mi\Downloads\Ing. 2022\PAV 1 - 3k7\TP_PAV_v1\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Mi\Downloads\Ing. 2022\PAV 1 - 3k7\TP_PAV_v1\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Mi\Downloads\Ing. 2022\PAV 1 - 3k7\TP_PAV_v1\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Mi\Downloads\Ing. 2022\PAV 1 - 3k7\TP_PAV_v1\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Mi\Downloads\Ing. 2022\PAV 1 - 3k7\TP_PAV_v1\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Mi\Downloads\Ing. 2022\PAV 1 - 3k7\TP_PAV_v1\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Mi\Downloads\Ing. 2022\PAV 1 - 3k7\TP_PAV_v1\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Mi\Downloads\Ing. 2022\PAV 1 - 3k7\TP_PAV_v1\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Mi\Downloads\Ing. 2022\PAV 1 - 3k7\TP_PAV_v1\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Mi\Downloads\Ing. 2022\PAV 1 - 3k7\TP_PAV_v1\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Mi\Downloads\Ing. 2022\PAV 1 - 3k7\TP_PAV_v1\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Mi\Downloads\Ing. 2022\PAV 1 - 3k7\TP_PAV_v1\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Mi\Downloads\Ing. 2022\PAV 1 - 3k7\TP_PAV_v1\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Mi\Downloads\Ing. 2022\PAV 1 - 3k7\TP_PAV_v1\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Mi\Downloads\Ing. 2022\PAV 1 - 3k7\TP_PAV_v1\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Mi\Downloads\Ing. 2022\PAV 1 - 3k7\TP_PAV_v1\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Mi\Downloads\Ing. 2022\PAV 1 - 3k7\TP_PAV_v1\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Mi\Downloads\Ing. 2022\PAV 1 - 3k7\TP_PAV_v1\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Mi\Downloads\Ing. 2022\PAV 1 - 3k7\TP_PAV_v1\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Mi\Downloads\Ing. 2022\PAV 1 - 3k7\TP_PAV_v1\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Mi\Downloads\Ing. 2022\PAV 1 - 3k7\TP_PAV_v1\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Mi\Downloads\Ing. 2022\PAV 1 - 3k7\TP_PAV_v1\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Mi\Downloads\Ing. 2022\PAV 1 - 3k7\TP_PAV_v1\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Mi\Downloads\Ing. 2022\PAV 1 - 3k7\TP_PAV_v1\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Mi\Downloads\Ing. 2022\PAV 1 - 3k7\TP_PAV_v1\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Mi\Downloads\Ing. 2022\PAV 1 - 3k7\TP_PAV_v1\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Mi\Downloads\Ing. 2022\PAV 1 - 3k7\TP_PAV_v1\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Mi\Downloads\Ing. 2022\PAV 1 - 3k7\TP_PAV_v1\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Mi\Downloads\Ing. 2022\PAV 1 - 3k7\TP_PAV_v1\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Mi\Downloads\Ing. 2022\PAV 1 - 3k7\TP_PAV_v1\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Mi\Downloads\Ing. 2022\PAV 1 - 3k7\TP_PAV_v1\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Mi\Downloads\Ing. 2022\PAV 1 - 3k7\TP_PAV_v1\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Mi\Downloads\Ing. 2022\PAV 1 - 3k7\TP_PAV_v1\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Mi\Downloads\Ing. 2022\PAV 1 - 3k7\TP_PAV_v1\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Mi\Downloads\Ing. 2022\PAV 1 - 3k7\TP_PAV_v1\obj\Debug\TP_PAV_v1.Formularios.ABMCamion.resources
+C:\Users\Mi\Downloads\Ing. 2022\PAV 1 - 3k7\TP_PAV_v1\obj\Debug\TP_PAV_v1.ABMCombustible.resources
+C:\Users\Mi\Downloads\Ing. 2022\PAV 1 - 3k7\TP_PAV_v1\obj\Debug\TP_PAV_v1.ABMBarrio.resources
+C:\Users\Mi\Downloads\Ing. 2022\PAV 1 - 3k7\TP_PAV_v1\obj\Debug\TP_PAV_v1.Formularios.ABMEmpleados.resources
+C:\Users\Mi\Downloads\Ing. 2022\PAV 1 - 3k7\TP_PAV_v1\obj\Debug\TP_PAV_v1.ABMLocalidad.resources
+C:\Users\Mi\Downloads\Ing. 2022\PAV 1 - 3k7\TP_PAV_v1\obj\Debug\TP_PAV_v1.Formularios.ABMMarca.resources
+C:\Users\Mi\Downloads\Ing. 2022\PAV 1 - 3k7\TP_PAV_v1\obj\Debug\TP_PAV_v1.Formularios.ABMProvincia.resources
+C:\Users\Mi\Downloads\Ing. 2022\PAV 1 - 3k7\TP_PAV_v1\obj\Debug\TP_PAV_v1.Formularios.AltaRemito.resources
+C:\Users\Mi\Downloads\Ing. 2022\PAV 1 - 3k7\TP_PAV_v1\obj\Debug\TP_PAV_v1.Formularios.ABMSucursal.resources
+C:\Users\Mi\Downloads\Ing. 2022\PAV 1 - 3k7\TP_PAV_v1\obj\Debug\TP_PAV_v1.Formularios.ABMTanque.resources
+C:\Users\Mi\Downloads\Ing. 2022\PAV 1 - 3k7\TP_PAV_v1\obj\Debug\TP_PAV_v1.Formularios.ABMTipoCombustible.resources
+C:\Users\Mi\Downloads\Ing. 2022\PAV 1 - 3k7\TP_PAV_v1\obj\Debug\TP_PAV_v1.Formularios.ABMTipoDocumento.resources
+C:\Users\Mi\Downloads\Ing. 2022\PAV 1 - 3k7\TP_PAV_v1\obj\Debug\TP_PAV_v1.Formularios.ABMTurno.resources
+C:\Users\Mi\Downloads\Ing. 2022\PAV 1 - 3k7\TP_PAV_v1\obj\Debug\TP_PAV_v1.Formularios.ABMEstacion.resources
+C:\Users\Mi\Downloads\Ing. 2022\PAV 1 - 3k7\TP_PAV_v1\obj\Debug\TP_PAV_v1.LoguinForm.resources
+C:\Users\Mi\Downloads\Ing. 2022\PAV 1 - 3k7\TP_PAV_v1\obj\Debug\TP_PAV_v1.Entidades.PrincipalForm.resources
+C:\Users\Mi\Downloads\Ing. 2022\PAV 1 - 3k7\TP_PAV_v1\obj\Debug\TP_PAV_v1.Formularios.ReporteEmpeados.resources
+C:\Users\Mi\Downloads\Ing. 2022\PAV 1 - 3k7\TP_PAV_v1\obj\Debug\TP_PAV_v1.Formularios.ReporteListadoCamiones.resources
+C:\Users\Mi\Downloads\Ing. 2022\PAV 1 - 3k7\TP_PAV_v1\obj\Debug\TP_PAV_v1.Formularios.ReporteListadoMarcas.resources
+C:\Users\Mi\Downloads\Ing. 2022\PAV 1 - 3k7\TP_PAV_v1\obj\Debug\TP_PAV_v1.Formularios.ReporteListadoProvincias.resources
+C:\Users\Mi\Downloads\Ing. 2022\PAV 1 - 3k7\TP_PAV_v1\obj\Debug\TP_PAV_v1.Properties.Resources.resources
+C:\Users\Mi\Downloads\Ing. 2022\PAV 1 - 3k7\TP_PAV_v1\obj\Debug\TP_PAV_v1.csproj.GenerateResource.cache
+C:\Users\Mi\Downloads\Ing. 2022\PAV 1 - 3k7\TP_PAV_v1\obj\Debug\TP_PAV_v1.csproj.CoreCompileInputs.cache
+C:\Users\Mi\Downloads\Ing. 2022\PAV 1 - 3k7\TP_PAV_v1\obj\Debug\TP_PAV_v1.csproj.CopyComplete
+C:\Users\PC\Documents\GitHub\TPPAV2022\TP_PAV_v1\obj\Debug\TP_PAV_v1.Formularios.ReporteListadoBarrios.resources
+C:\Users\PC\Documents\GitHub\TPPAV2022\TP_PAV_v1\obj\Debug\TP_PAV_v1.Formularios.ReporteListadoProvincias.resources
+E:\UTN\Tercer Año\PAV\TP_PAV_v1\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+E:\UTN\Tercer Año\PAV\TP_PAV_v1\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+E:\UTN\Tercer Año\PAV\TP_PAV_v1\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+E:\UTN\Tercer Año\PAV\TP_PAV_v1\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+E:\UTN\Tercer Año\PAV\TP_PAV_v1\bin\Debug\TP_PAV_v1.exe.config
+E:\UTN\Tercer Año\PAV\TP_PAV_v1\bin\Debug\TP_PAV_v1.exe
+E:\UTN\Tercer Año\PAV\TP_PAV_v1\bin\Debug\TP_PAV_v1.pdb
+E:\UTN\Tercer Año\PAV\TP_PAV_v1\bin\Debug\Microsoft.ReportViewer.Common.dll
+E:\UTN\Tercer Año\PAV\TP_PAV_v1\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+E:\UTN\Tercer Año\PAV\TP_PAV_v1\bin\Debug\Microsoft.ReportViewer.Design.dll
+E:\UTN\Tercer Año\PAV\TP_PAV_v1\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+E:\UTN\Tercer Año\PAV\TP_PAV_v1\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+E:\UTN\Tercer Año\PAV\TP_PAV_v1\bin\Debug\Microsoft.SqlServer.Types.dll
+E:\UTN\Tercer Año\PAV\TP_PAV_v1\bin\Debug\EnvDTE.dll
+E:\UTN\Tercer Año\PAV\TP_PAV_v1\bin\Debug\stdole.dll
+E:\UTN\Tercer Año\PAV\TP_PAV_v1\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+E:\UTN\Tercer Año\PAV\TP_PAV_v1\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+E:\UTN\Tercer Año\PAV\TP_PAV_v1\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+E:\UTN\Tercer Año\PAV\TP_PAV_v1\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+E:\UTN\Tercer Año\PAV\TP_PAV_v1\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+E:\UTN\Tercer Año\PAV\TP_PAV_v1\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+E:\UTN\Tercer Año\PAV\TP_PAV_v1\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+E:\UTN\Tercer Año\PAV\TP_PAV_v1\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+E:\UTN\Tercer Año\PAV\TP_PAV_v1\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+E:\UTN\Tercer Año\PAV\TP_PAV_v1\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+E:\UTN\Tercer Año\PAV\TP_PAV_v1\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\UTN\Tercer Año\PAV\TP_PAV_v1\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\UTN\Tercer Año\PAV\TP_PAV_v1\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\UTN\Tercer Año\PAV\TP_PAV_v1\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\UTN\Tercer Año\PAV\TP_PAV_v1\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\UTN\Tercer Año\PAV\TP_PAV_v1\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\UTN\Tercer Año\PAV\TP_PAV_v1\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\UTN\Tercer Año\PAV\TP_PAV_v1\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\UTN\Tercer Año\PAV\TP_PAV_v1\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\UTN\Tercer Año\PAV\TP_PAV_v1\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\UTN\Tercer Año\PAV\TP_PAV_v1\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+E:\UTN\Tercer Año\PAV\TP_PAV_v1\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+E:\UTN\Tercer Año\PAV\TP_PAV_v1\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+E:\UTN\Tercer Año\PAV\TP_PAV_v1\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+E:\UTN\Tercer Año\PAV\TP_PAV_v1\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+E:\UTN\Tercer Año\PAV\TP_PAV_v1\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+E:\UTN\Tercer Año\PAV\TP_PAV_v1\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+E:\UTN\Tercer Año\PAV\TP_PAV_v1\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+E:\UTN\Tercer Año\PAV\TP_PAV_v1\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+E:\UTN\Tercer Año\PAV\TP_PAV_v1\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+E:\UTN\Tercer Año\PAV\TP_PAV_v1\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+E:\UTN\Tercer Año\PAV\TP_PAV_v1\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+E:\UTN\Tercer Año\PAV\TP_PAV_v1\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+E:\UTN\Tercer Año\PAV\TP_PAV_v1\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+E:\UTN\Tercer Año\PAV\TP_PAV_v1\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+E:\UTN\Tercer Año\PAV\TP_PAV_v1\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+E:\UTN\Tercer Año\PAV\TP_PAV_v1\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+E:\UTN\Tercer Año\PAV\TP_PAV_v1\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+E:\UTN\Tercer Año\PAV\TP_PAV_v1\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+E:\UTN\Tercer Año\PAV\TP_PAV_v1\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+E:\UTN\Tercer Año\PAV\TP_PAV_v1\obj\Debug\TP_PAV_v1.csproj.AssemblyReference.cache
+E:\UTN\Tercer Año\PAV\TP_PAV_v1\obj\Debug\TP_PAV_v1.Formularios.ABMCamion.resources
+E:\UTN\Tercer Año\PAV\TP_PAV_v1\obj\Debug\TP_PAV_v1.ABMCombustible.resources
+E:\UTN\Tercer Año\PAV\TP_PAV_v1\obj\Debug\TP_PAV_v1.ABMBarrio.resources
+E:\UTN\Tercer Año\PAV\TP_PAV_v1\obj\Debug\TP_PAV_v1.Formularios.ABMEmpleados.resources
+E:\UTN\Tercer Año\PAV\TP_PAV_v1\obj\Debug\TP_PAV_v1.ABMLocalidad.resources
+E:\UTN\Tercer Año\PAV\TP_PAV_v1\obj\Debug\TP_PAV_v1.Formularios.ABMMarca.resources
+E:\UTN\Tercer Año\PAV\TP_PAV_v1\obj\Debug\TP_PAV_v1.Formularios.ABMProvincia.resources
+E:\UTN\Tercer Año\PAV\TP_PAV_v1\obj\Debug\TP_PAV_v1.Formularios.AltaRemito.resources
+E:\UTN\Tercer Año\PAV\TP_PAV_v1\obj\Debug\TP_PAV_v1.Formularios.ABMSucursal.resources
+E:\UTN\Tercer Año\PAV\TP_PAV_v1\obj\Debug\TP_PAV_v1.Formularios.ABMTanque.resources
+E:\UTN\Tercer Año\PAV\TP_PAV_v1\obj\Debug\TP_PAV_v1.Formularios.ABMTipoCombustible.resources
+E:\UTN\Tercer Año\PAV\TP_PAV_v1\obj\Debug\TP_PAV_v1.Formularios.ABMTipoDocumento.resources
+E:\UTN\Tercer Año\PAV\TP_PAV_v1\obj\Debug\TP_PAV_v1.Formularios.ABMTurno.resources
+E:\UTN\Tercer Año\PAV\TP_PAV_v1\obj\Debug\TP_PAV_v1.Formularios.ABMEstacion.resources
+E:\UTN\Tercer Año\PAV\TP_PAV_v1\obj\Debug\TP_PAV_v1.LoguinForm.resources
+E:\UTN\Tercer Año\PAV\TP_PAV_v1\obj\Debug\TP_PAV_v1.Entidades.PrincipalForm.resources
+E:\UTN\Tercer Año\PAV\TP_PAV_v1\obj\Debug\TP_PAV_v1.Formularios.ReporteEmpeados.resources
+E:\UTN\Tercer Año\PAV\TP_PAV_v1\obj\Debug\TP_PAV_v1.Formularios.ReporteListadoBarrios.resources
+E:\UTN\Tercer Año\PAV\TP_PAV_v1\obj\Debug\TP_PAV_v1.Formularios.ReporteListadoCamiones.resources
+E:\UTN\Tercer Año\PAV\TP_PAV_v1\obj\Debug\TP_PAV_v1.Formularios.ReporteListadoMarcas.resources
+E:\UTN\Tercer Año\PAV\TP_PAV_v1\obj\Debug\TP_PAV_v1.Formularios.ReporteListadoProvincias.resources
+E:\UTN\Tercer Año\PAV\TP_PAV_v1\obj\Debug\TP_PAV_v1.Properties.Resources.resources
+E:\UTN\Tercer Año\PAV\TP_PAV_v1\obj\Debug\TP_PAV_v1.csproj.GenerateResource.cache
+E:\UTN\Tercer Año\PAV\TP_PAV_v1\obj\Debug\TP_PAV_v1.csproj.CoreCompileInputs.cache
+E:\UTN\Tercer Año\PAV\TP_PAV_v1\obj\Debug\TP_PAV_v1.csproj.Up2Date
+E:\UTN\Tercer Año\PAV\TP_PAV_v1\obj\Debug\TP_PAV_v1.exe
+E:\UTN\Tercer Año\PAV\TP_PAV_v1\obj\Debug\TP_PAV_v1.pdb
